@@ -43,5 +43,6 @@ Let's connect and have a conversation:
 - [LinkedIn](https://www.linkedin.com/in/sanadalshobaki/)
 - [Twitter](https://twitter.com/alshobaki_49384)
 - [Email](mailto:alshobakisanad@gmail.com)
+- [Portfolio](https://sanadalshobaki.carrd.co/)
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
